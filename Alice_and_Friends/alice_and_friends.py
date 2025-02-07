@@ -6,7 +6,8 @@ value_last = arr[-1]
 if value_last == arr[0]:
     count = no_friends
 else:
-    for i in arr:
-        if i == arr[0]:
-            count += 1
+    count = arr.count(arr[0])
+    # for i in arr:
+    #     if i == arr[0]:
+    #         count += 1
 print(no_friends-count)
