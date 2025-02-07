@@ -6,7 +6,7 @@ both papers. If the digits are similar then, Alice will give a T-shirt to each f
 the T-shirts to only those who understood the digits correctly.
 
 Given N number of friends and digit array D, denoting the digit understood by each friend F. finds out how many of Alice’s friends have not enacted well OR did not 
-understand the enactment by the previous friend correctly.
+understand the enactment by the previous friend correctly.  (TCS-NQT-2022-Question)
 
 Example 1:
 3 -> N, number of friends
