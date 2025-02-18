@@ -1,0 +1,18 @@
+Write a program that finds the nth prime number. 
+The program should take an integer 𝑛 as input and output the 𝑛-th prime number. 
+For example, 
+if 𝑛 is 4, the program should return 7, since 7 is the 4th prime number in the sequence (2, 3, 5, 7, ...)
+
+Examples:
+
+Example 1:
+
+Input: n = 4
+Output: 7
+Explanation: 7 is the 4th prime number.
+
+Example 2:
+
+Input: n = 6
+Output: 13
+Explanation: 13 is the 6th prime number.
