@@ -16,4 +16,4 @@ else:
         if is_prime(n):
             prime_count += 1
         n -= 1
-    print(prime_count)  # which term is the given prime number. 3rd term is 5 (2,5,7...)
+    print(prime_count)  # which term is the given prime number. 3rd term is 5 (2,3,5,7...)
