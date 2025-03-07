@@ -4,5 +4,5 @@ def palindrome(text):
     else:
         print("Not Palindrome")
 
-string = input() # Taking the number as string.
+string = input()
 palindrome(string)
