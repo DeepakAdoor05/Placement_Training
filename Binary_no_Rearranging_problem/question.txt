@@ -1,5 +1,5 @@
 Given Two binary numbers (in 0 and 1) in the form of string. 
-Find the possibility whetherthese numbers can become equial by rearranging their 
+Find the possibility whether these numbers can become equial by rearranging their 
 respective 0's and 1's.     (TCS NQT 2022)
 for ex: 101 and 011 can be arranged within themselves to become either 101 and 011.
 Example 1:
