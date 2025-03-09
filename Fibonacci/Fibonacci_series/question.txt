@@ -1,0 +1,7 @@
+Write a program to generate the first N numbers in the Fibonacci series. 
+The Fibonacci series is defined as follows:
+- The first two numbers in the series are 0 and 1.
+- Each subsequent number is the sum of the previous two numbers.
+
+For example, if N = 10, the output should be:
+0, 1, 1, 2, 3, 5, 8, 13, 21, 34
