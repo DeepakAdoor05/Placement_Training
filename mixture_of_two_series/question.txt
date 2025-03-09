@@ -1,0 +1,12 @@
+For Example, consider the given series 1,2,1,3,2,5,3,7,5,11,8,13,...
+This series is a mixture of 2 series all the odd term in this series form a Fibonacci series and all 
+the even terms are the prime numbers in ascending order. Now write a program to find the Nth term in
+this series. (TCS-2018-Question)
+
+Example-1
+Input : 6
+Output : 5
+
+Example-2
+Input : 11
+Output : 8
