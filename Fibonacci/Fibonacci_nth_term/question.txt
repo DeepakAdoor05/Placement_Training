@@ -1,0 +1,6 @@
+Write a program to find the nth term of the Fibonacci sequence.
+Given an integer n, calculate the nth term of the Fibonacci sequence.
+
+Example:
+Input: n = 5
+Output: 5
