@@ -1,0 +1,4 @@
+Find the Sum of Cube of all numbers in a range  (TCS-NQT-2024-Question)
+
+i/p : 2,4
+o/p : 99
