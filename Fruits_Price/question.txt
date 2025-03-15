@@ -1,0 +1,6 @@
+Fruit's Price
+
+input : [[Apple,10,2],[Orange,20,4]]
+output : 
+        Total Sales - 100,
+        Average Sales - 16.666
