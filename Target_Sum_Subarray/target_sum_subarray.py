@@ -8,6 +8,8 @@ def find_subarray(arr,target):
             subarray.append(arr[j])
             if sum == target:
                 result.append(subarray[:])
+                # result.append(subarray)       if subarray is simply given use break
+                # break
     print(result)
 
 
