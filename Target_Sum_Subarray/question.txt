@@ -1,0 +1,9 @@
+Find the Subarray with Target Sum,  (TCS-NQT-2024-Question)
+
+Sample input: [1,2,3,4,5,67]
+sum = 3
+output: [1,2][3]
+
+Sample input: [1,2,3,4,5,67]
+sum = 5
+output: [2,3],[5]
