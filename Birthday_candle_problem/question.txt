@@ -1,0 +1,21 @@
+Today its birthday of Alice, and little Bob wants to gift her something. Bob has 
+a collection of N beutiful candles in a random sequences irrespective of their sizes.
+Some candles are smaller, some are medium and some are lager in size. Bob has already 
+planned to gift a candle from his collection to Alice. According to his plan he will 
+change the sequence for R times. After R rotation he will find the middle candle and 
+
+if the middle candle is the Largest candle in all rest of the candles then, he will gift
+the largest candle.
+If the candle is any sized candle between larger and smaller then he will gift that candle.
+If the candle is smallest candle in all rest of the candles he'll give Alice the next lager
+sized candle.
+
+Example-1
+Input:
+5-> (N) representing number of candles 
+{1,2,3,4,5} -> elements of array 'arr' representing different candles in different sizes(each 
+input is given on new line)
+3->number of rotations of array of candles
+
+Output:
+2
