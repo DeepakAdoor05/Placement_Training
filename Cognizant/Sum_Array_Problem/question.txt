@@ -1,0 +1,7 @@
+Write a program that checks whether the sum of the first half of an array is less than the sum of the 
+second half. If this condition is met, the program should reverse the entire array.
+Finally, the program should print the resulting array.
+
+Example:
+i/p : 1,2,3,10,20,30
+o/p : 30,20,10,3,2,1
