@@ -1,0 +1,11 @@
+Given a string str consisting of opening and closing parentheses '(' and ')', 
+the task is to find the length of the longest valid parenthesis substring.
+
+Examples:
+    input: str = "((()"
+    output: 2
+    explanation: Longest valid parentheses substring is "()".
+
+    input: str = ")()())"
+    output: 4
+    explanation: Longest valid parentheses substring is "()()".
