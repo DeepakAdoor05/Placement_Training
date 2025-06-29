@@ -1,0 +1,16 @@
+Wael is well-known for how much he loves the bit-wise operation, while kaito is well-known for how much he loves to sum numbers,
+so their friend Resli decided to make up a problem that would enjoy both of them. Resli wrote down an array A of length N, an 
+integer K and he defined a new function called Xor-sum as follows.
+
+Xor-sum(x) = (xXOR A[1])+(xXOR A[1])+(xXOR A[1])+.......+(xXOR A[1])
+
+Can you finnd the integer x in the range [0,k] with the maximum Xor-sum (x) value?
+print only the value.
+
+Sample Input:
+n = 3
+k = 7
+arr = [1,6,3]
+
+Sample Output:
+14
