@@ -4,7 +4,7 @@ integer K and he defined a new function called Xor-sum as follows.
 
 Xor-sum(x) = (xXOR A[1])+(xXOR A[1])+(xXOR A[1])+.......+(xXOR A[1])
 
-Can you finnd the integer x in the range [0,k] with the maximum Xor-sum (x) value?
+Can you find the integer x in the range [0,k] with the maximum Xor-sum (x) value?
 print only the value.
 
 Sample Input:
