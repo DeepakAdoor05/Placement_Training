@@ -1,0 +1,23 @@
+You are given a string S
+You can perform the following operations on S any number of times(possibly zero):
+1. Remove the first character from S
+2. Remove the last character from S
+Find the total number of distinct non-empty strings that can be generated.
+
+Sample Input 0
+aaaaa
+
+Sample Output 0
+5
+
+Sample Input 1
+ababa
+
+Sample Output 1
+9
+    ``--Explanation--``
+[substrings in ababa are: 
+a,ab,aba,abab,ababa,b,ba,bab,baba,a,ab,aba,b,ba,a
+distinct strings are:
+a,ab,aba,abab,ababa,b,ba,bab,baba
+]
